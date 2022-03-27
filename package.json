@@ -1,0 +1,15 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "This is my first web automation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "automation"
+  ],
+  "author": "Parvez Hasan Rubel",
+  "license": "ISC"
+}
